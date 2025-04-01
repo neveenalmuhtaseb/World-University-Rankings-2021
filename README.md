@@ -3,8 +3,8 @@
 
 ### O B J E C T I V E S
 Visualize and analyze global university rankings based on various performance indicators.
-
-#### Key Features
+
+#### Key Features
 
 **Ranking Overview**
 
@@ -23,6 +23,7 @@ Display a leaderboard of the top-ranked universities.
 5. How does industry income affect overall scores?
  
 6. What factors contribute most to a university’s ranking?
+
 
 
 **Geographical Insights**
