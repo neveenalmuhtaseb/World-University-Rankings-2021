@@ -10,17 +10,21 @@ Visualize and analyze global university rankings based on various performance in
 
 Display a leaderboard of the top-ranked universities.
 
+
 **Geographical Insights**
 
 Map visualization of university overall_score average by location.
 
 Distribution of universities across countries.
 
+
 **Geographical Insights**
 
 Map visualization of university overall_score average by location.
 Distribution of universities across countries.
+
 
 ### Tableau dashboard
 [click here](https://public.tableau.com/views/WorldUniversityRankings2021/Story1?:language=en-US&:sid=A8C71A2729E84E14B4C8F5D146701241-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/054f2d8c-2dd1-4c00-b084-451ce11aa2c9" />
+
+
