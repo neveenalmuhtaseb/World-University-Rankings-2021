@@ -26,6 +26,8 @@ Display a leaderboard of the top-ranked universities.
 
 
 
+
+
 **Geographical Insights**
 
 Map visualization of university overall_score average by location.
@@ -41,7 +43,9 @@ Distribution of universities across countries.
 
 ### Folders
 Scripts: Python code for the analysis, executed using Jupyter notebooks.
+
 Visualizations: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
+
 Data: World University Rankings 2021 Dataset
 
 
