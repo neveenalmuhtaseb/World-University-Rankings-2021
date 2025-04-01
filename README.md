@@ -33,6 +33,7 @@ Map visualization of university overall_score average by location.
 Distribution of universities across countries.
 
 
+
 **Geographical Insights**
 
 Map visualization of university overall_score average by location.
